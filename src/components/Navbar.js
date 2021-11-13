@@ -9,7 +9,7 @@ class Navbar extends Component {
       <nav className="navbar navbar-dark bg-dark p-0 text-monospace">
         <a
           className="navbar-brand col-sm-3 col-md-2 mr-0"
-          href="http://www.dappuniversity.com/bootcamp"
+          href="https://github.com/ChelseaSchnider"
           target="_blank"
           rel="noopener noreferrer"
         >
